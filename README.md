@@ -32,3 +32,7 @@ Tableau_visualization1.jpg – Image of the Tableau dashboard.
 tabealu_project_1.xlsx – The dataset used for analysis.
 
 
+![Tableau Report](https://raw.githubusercontent.com/your-username/repository-name/main/Tableau_visualization1.jpg)
+
+
+
