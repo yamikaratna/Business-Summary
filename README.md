@@ -26,5 +26,9 @@ Other notable contributors include Canada, India, New Zealand, UK, and USA.
 Dennison Crosswaite achieved the highest sales figures, followed by Brien Boise and Kaine Padly.
 
 The top 10 salespeople contributed significantly to overall revenue.
+# Files in this Repository
+Tableau_visualization1.jpg – Image of the Tableau dashboard.
+
+tabealu_project_1.xlsx – The dataset used for analysis.
 
 
