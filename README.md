@@ -15,5 +15,16 @@ Top 10 Salespersons: Best-performing sales representatives based on revenue.
 # Key Insights
 ## Total Sales Performance:
 The business generated a total revenue of $1,137,367.
+
 32,647 boxes were shipped across 205 shipments.
+## Sales by Country:
+Australia leads in sales, significantly outperforming other countries.
+
+Other notable contributors include Canada, India, New Zealand, UK, and USA.
+
+## Top Performing Salespersons:
+Dennison Crosswaite achieved the highest sales figures, followed by Brien Boise and Kaine Padly.
+
+The top 10 salespeople contributed significantly to overall revenue.
+
 
